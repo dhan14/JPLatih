@@ -1,5 +1,6 @@
 # JPLatih
-Nama Muhammad Yaqdhan Taqy Ariana
+
+Muhammad Yaqdhan Taqy Ariana
 -------------------
 1194027
 -------------------
